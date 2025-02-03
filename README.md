@@ -12,8 +12,8 @@ Typically, in both cases, we'll see:
     + compartment_id = (known after apply)
     + group_id       = "ocid1.group.oc1..aaaaaa----REDACTED----4eeecf5bz3a"
     + id             = (known after apply)
-    + inactive_state = (known after apply)peer morten moflag løchting
-    + state          = (known after applyMathias Flo Hjetland)
+    + inactive_state = (known after apply)
+    + state          = (known after apply)
     + time_created   = (known after apply)
     + user_id        = "ocid1.user.oc1..aaaaaaa----REDACTED----mydvrvxehxq"
   }
